@@ -17,7 +17,6 @@ echo $json;
 $port = 24;
 $database = 'localhost';
 $env = 'root';
-$nickname = 'konvue';
 $password = 'fsociety15';
 
 
